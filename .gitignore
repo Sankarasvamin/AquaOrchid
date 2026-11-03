@@ -1,0 +1,13 @@
+.env
+auth.json
+downloader.py
+downloader_raw.py
+downloads/
+visions/
+analysis/
+*.epub
+*.log
+__pycache__/
+*.pyc
+.DS_Store
+
